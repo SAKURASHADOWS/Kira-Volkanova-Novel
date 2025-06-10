@@ -1,6 +1,6 @@
 # Kira Volkanova: Shadows of the Eternal Dream
 
-![Kira Volkanova Cover Art](Sakura%20Sirens%20(3).jpg)
+![Kira Volkanova Cover Art](Kira-Volkanova-Cover).jpg)
 *(Note: Make sure the file name in the parentheses exactly matches the name of the image you uploaded)*
 
 ---
